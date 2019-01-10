@@ -1,0 +1,10 @@
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\bin\Debug\12_Days.exe.config
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\bin\Debug\12_Days.exe
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\bin\Debug\12_Days.pdb
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\12_Days.csprojAssemblyReference.cache
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\_12_Days.Form1.resources
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\_12_Days.Properties.Resources.resources
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\12_Days.csproj.GenerateResource.cache
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\12_Days.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\12_Days.exe
+C:\Users\Chris\OneDrive\Documents\CS\12_Days\12_Days\obj\Debug\12_Days.pdb

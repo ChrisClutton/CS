@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\bin\Debug\ArraysMinMax.exe.config
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\bin\Debug\ArraysMinMax.exe
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\bin\Debug\ArraysMinMax.pdb
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.Form1.resources
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.Properties.Resources.resources
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.exe
+C:\Users\Chris\source\repos\ArraysMinMax\ArraysMinMax\obj\Debug\ArraysMinMax.pdb

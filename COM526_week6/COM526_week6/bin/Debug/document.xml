@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<course_list>
+  <course>
+    <number>CPT 102</number>
+    <title>Discovering Computer Technology</title>
+    <credit>1</credit>
+  </course>
+  <course>
+    <number>CPT 106</number>
+    <title>Using a Personal Computer</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 115</number>
+    <title>Computer Information Systems Fundamentals</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 120</number>
+    <title>Quantitative Analysis I</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 123</number>
+    <title>Internet Skills</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 140</number>
+    <title>Programming Constructs Lab</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 220</number>
+    <title>Quantitative Analysis II</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 223</number>
+    <title>Web Page Design</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 233</number>
+    <title>Computer Hardware/Software Architecture</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 254</number>
+    <title>Analysis and Design</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 262</number>
+    <title>Problem-Solving and Programming</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 270</number>
+    <title>Introduction to Java</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 286</number>
+    <title>Operating Systems and Administration</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 288</number>
+    <title>Using a Database Management System</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 303</number>
+    <title>Communications Security and Network Controls</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 307</number>
+    <title>Data Communications</title>
+    <credit>4</credit>
+  </course>
+  <course>
+    <number>CPT 320</number>
+    <title>Quantitative Analysis III</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 323</number>
+    <title>Multimedia</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 336</number>
+    <title>Data Communications Lab</title>
+    <credit>2</credit>
+  </course>
+  <course>
+    <number>CPT 352</number>
+    <title>Decision Support and Management Information Systems</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 362</number>
+    <title>Object Oriented Programming</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 374</number>
+    <title>Systems and Database Analysis</title>
+    <credit>4</credit>
+  </course>
+  <course>
+    <number>CPT 384</number>
+    <title>Systems Design</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 388</number>
+    <title>Visual Basic II</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 388</number>
+    <title>Java Programming II</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 402</number>
+    <title>Design and Implementation of Local Area Networks</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 410</number>
+    <title>Information Technology Ethics and Leadership</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 423</number>
+    <title>Electronic Commerce</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 440</number>
+    <title>Communication Network Design</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 479</number>
+    <title>Database Physical Design and Implementation</title>
+    <credit>3</credit>
+  </course>
+  <course>
+    <number>CPT 484</number>
+    <title>Systems Analysis and Design Project</title>
+    <credit>3</credit>
+  </course>
+</course_list>

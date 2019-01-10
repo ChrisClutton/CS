@@ -1,0 +1,15 @@
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\Assignment_CC.exe.config
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\Assignment_CC.exe
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\Assignment_CC.pdb
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\EntityFramework.dll
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\EntityFramework.xml
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.csprojAssemblyReference.cache
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.Form1.resources
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.Properties.Resources.resources
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.csproj.GenerateResource.cache
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.csproj.CopyComplete
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.exe
+C:\Users\Chris\OneDrive\Documents\CS\Assignment_CC\Assignment_CC\obj\Debug\Assignment_CC.pdb

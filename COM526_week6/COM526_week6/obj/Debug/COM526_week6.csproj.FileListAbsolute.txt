@@ -1,0 +1,10 @@
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\bin\Debug\COM526_week6.exe.config
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\bin\Debug\COM526_week6.exe
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\bin\Debug\COM526_week6.pdb
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.csprojAssemblyReference.cache
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.Form1.resources
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.Properties.Resources.resources
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.csproj.GenerateResource.cache
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.exe
+C:\Users\Chris\OneDrive\Documents\CS\COM526_week6\COM526_week6\obj\Debug\COM526_week6.pdb

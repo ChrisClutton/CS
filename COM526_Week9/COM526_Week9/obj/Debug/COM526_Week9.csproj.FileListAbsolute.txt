@@ -1,0 +1,17 @@
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\MyDatabase.mdf
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\MyDatabase_log.ldf
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\COM526_Week9.exe.config
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\COM526_Week9.exe
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\COM526_Week9.pdb
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\EntityFramework.dll
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\EntityFramework.xml
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.csprojAssemblyReference.cache
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.Form1.resources
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.Properties.Resources.resources
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.csproj.GenerateResource.cache
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.csproj.CopyComplete
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.exe
+C:\Users\Chris\OneDrive\Documents\CS\COM526_Week9\COM526_Week9\obj\Debug\COM526_Week9.pdb

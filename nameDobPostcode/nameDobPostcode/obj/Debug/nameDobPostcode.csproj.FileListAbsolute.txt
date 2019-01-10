@@ -1,0 +1,10 @@
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\bin\Debug\nameDobPostcode.exe.config
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\bin\Debug\nameDobPostcode.exe
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\bin\Debug\nameDobPostcode.pdb
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.csprojAssemblyReference.cache
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.Form1.resources
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.Properties.Resources.resources
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.csproj.GenerateResource.cache
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.csproj.CoreCompileInputs.cache
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.exe
+C:\Users\Chris\OneDrive\Documents\CS\nameDobPostcode\nameDobPostcode\obj\Debug\nameDobPostcode.pdb
